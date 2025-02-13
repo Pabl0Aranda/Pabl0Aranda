@@ -29,8 +29,8 @@ Soy un estudiante de ingeniería informática con un sólido conocimiento en est
 ---
 
 ## 📊 Métricas y Estadísticas
-![Perfil GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=dark)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=dark)  
+![Perfil GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pabl0Aranda&show_icons=true&theme=dark)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabl0Aranda&layout=compact&theme=dark)  
 
 ---
 
