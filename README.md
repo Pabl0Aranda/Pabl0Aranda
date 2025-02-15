@@ -42,6 +42,6 @@ Soy un estudiante de ingeniería informática con un sólido conocimiento en est
 ## 📫 Contacto
 📧 **Email:** [pabloarandacortes02@gmail.com]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/pablo-aranda-cort%C3%A9s-348783350/]  
-📂 **Portafolio:** [https://pabloaranda.netlify.app]  
+📂 **Portafolio:** [futuro]  
 
 Siempre abierto a oportunidades para aprender, colaborar y crecer profesionalmente.
