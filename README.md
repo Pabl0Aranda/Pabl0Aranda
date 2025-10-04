@@ -2,7 +2,7 @@
 
 ### 🎓 Estudiante de Ingeniería Informática en Sistemas de Información
 📍 Universidad Pablo de Olavide  
-🚀 Interesado en la programación, la ciencia de datos y la inteligencia artificial.
+🚀 Interesado en la programación y la ciencia de datos.
 
 ---
 
