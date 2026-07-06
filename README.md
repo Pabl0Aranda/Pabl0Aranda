@@ -24,12 +24,6 @@ Estudiante de cuarto año de Ingeniería del Software en la Universidad Pablo de
 
 ---
 
-## Métricas y Estadísticas
-
-![Rachas de GitHub](https://streak-stats.demolab.com/?user=Pabl0Aranda&theme=dark)
-
----
-
 ## Contacto
 
 *   **Email:** [pabloarandacortes02@gmail.com](mailto:pabloarandacortes02@gmail.com)  
