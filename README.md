@@ -26,8 +26,7 @@ Estudiante de cuarto año de Ingeniería del Software en la Universidad Pablo de
 
 ## Métricas y Estadísticas
 
-![Perfil GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pabl0Aranda&show_icons=true&theme=dark&cache_seconds=1800)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabl0Aranda&layout=compact&theme=dark&cache_seconds=1800)
+![Rachas de GitHub](https://streak-stats.demolab.com/?user=Pabl0Aranda&theme=dark)
 
 ---
 
