@@ -9,7 +9,7 @@ Estudiante de cuarto año de Ingeniería del Software en la Universidad Pablo de
 
 ## Tecnologías y Herramientas
 
-*   **Frontend:** Angular, React, Astro
+*   **Frontend:** Angular, Astro
 *   **Backend:** Spring Boot, Django, Odoo
 *   **Data & IA:** PyTorch, TensorFlow
 *   **Sistemas y DevOps:** Linux (Ubuntu), Git, Netlify (CI/CD)
