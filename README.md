@@ -20,7 +20,6 @@ Desarrollador de software especializado en sistemas de información. Mi perfil c
 
 ## Proyectos Destacados
 
-*   **Sistema de Gestión Académica con Análisis Predictivo (TFG):** Plataforma educativa integral desarrollada con Django REST Framework y Angular. Orientada a la administración académica y la optimización de flujos de trabajo, integra modelos de Machine Learning para predecir el rendimiento estudiantil.
 *   **Organizador de Lectura Android:** Aplicación móvil nativa en Kotlin con arquitectura Jetpack Compose y Room Database. Integra Google ML Kit (OCR) y CameraX para el escaneo automático de códigos ISBN y extracción de texto.
 *   **Portfolio Personal y Motor de Blog (Open Source):** Desarrollado en Astro con integración de Notion como CMS. Destaca por su alta personalización y rutinas automatizadas de integración y despliegue continuo (CI/CD) alojadas en Netlify con enrutamiento de dominio personalizado.
 *   **UPO Party (Módulo Odoo):** Desarrollo de un módulo ERP personalizado para la gestión integral de locales de ocio nocturno, implementado con Python, XML y el framework OWL.
