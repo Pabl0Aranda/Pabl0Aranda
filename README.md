@@ -9,10 +9,10 @@ Desarrollador de software especializado en sistemas de información. Mi perfil c
 
 ## Tecnologías y Herramientas
 
-*   **Frontend:** Angular, Astro, Tailwind CSS, Bootstrap
+*   **Frontend:** Astro, Tailwind CSS, Bootstrap
 *   **Backend:** Spring Boot, Django (DRF), Odoo (Python/XML/OWL), PHP
 *   **Móvil:** Android nativo (Kotlin, Jetpack Compose)
-*   **IA & Data:** PyTorch, OpenCV, Scikit-learn
+*   **IA & Data:** PyTorch, OpenCV, Scikit-learn, KNIME
 *   **Bases de Datos:** PostgreSQL, MySQL, MongoDB
 *   **DevOps & Sistemas:** Linux (Ubuntu), Docker, Git, GitHub Actions, Netlify (CI/CD)
 
